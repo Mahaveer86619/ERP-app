@@ -236,24 +236,14 @@
                     android:layout_marginTop="35dp"
                     android:layout_marginBottom="25dp">
 
-<!--                    <com.jem.rubberpicker.RubberSeekBar-->
-<!--                        app:minValue="20"-->
-<!--                        app:maxValue="80"-->
-<!--                        app:elasticBehavior="cubic"-->
-<!--                        app:dampingRatio="0.3"-->
-<!--                        app:stiffness="300"-->
-<!--                        app:stretchRange="24dp"-->
-<!--                        app:defaultThumbRadius="16dp"-->
-<!--                        app:normalTrackWidth="4dp"-->
-<!--                        app:highlightTrackWidth="8dp"-->
-<!--                        app:normalTrackColor="#AAAAAA"-->
-<!--                        app:highlightTrackColor="#BA1F33"-->
-<!--                        app:defaultThumbInsideColor="#FFF"-->
-<!--                        app:highlightDefaultThumbOnTouchColor="#CD5D67"-->
-<!--                        android:layout_height="wrap_content"-->
-<!--                        android:layout_width="wrap_content">-->
+                    <SeekBar
+                        android:id="@+id/sb_fees_seekbar"
+                        android:layout_width="match_parent"
+                        android:layout_height="22dp"
+                        android:background="@color/greyishwhite"
+                        android:progressTint="@color/light_blue">
+                    </SeekBar>
 
-<!--                    </com.jem.rubberpicker.RubberSeekBar>-->
                     <TextView
                         android:id="@+id/fees_percentage"
                         android:layout_width="wrap_content"
