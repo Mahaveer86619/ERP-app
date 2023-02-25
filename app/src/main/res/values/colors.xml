@@ -11,5 +11,7 @@
     <color name="blue">#5800FF</color>
     <color name="greyish_black">#323232</color>
     <color name="greyish">#3C3B37</color>
-    <color name="greyishwhite">#E8F0F2</color>
+    <color name="greyishwhite">#F5E8F0F2</color>
+    <color name="light_grey">#75746F</color>
+    <color name="light_blue">#72FFFF</color>
 </resources>

@@ -11,4 +11,15 @@
     <string name="request">Request</string>
     <string name="password">Password</string>
     <string name="splash_img">splash img</string>
+    <string name="welcome_back_nstudent">Welcome back, \nStudent</string>
+    <string name="here_is_your_erp">Here is your ERP</string>
+    <string name="profile_pic">profile pic</string>
+    <string name="search">Search</string>
+    <string name="preferences">preferences</string>
+    <string name="your_dashboard">Your Dashboard</string>
+    <string name="attendance">Attendance</string>
+    <string name="Attandance_text">See your attendance report</string>
+    <string name="fees">Fees</string>
+    <string name="Fees_text">See your remaining dues</string>
+    <string name="_75">75%</string>
 </resources>

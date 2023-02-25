@@ -23,7 +23,7 @@
             android:layout_gravity="center"
             android:layout_weight="1"
             android:contentDescription="@string/login_img"
-            android:src="@drawable/img_1">
+            android:src="@drawable/login_pic">
 
         </ImageView>
 
