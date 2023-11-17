@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ERP</string>
+    <string name="login_logo">Login_logo</string>
+    <string name="login_now">Login Now</string>
+    <string name="login_text">Enter your username and password to login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
 </resources>
